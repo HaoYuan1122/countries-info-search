@@ -1,0 +1,9 @@
+.loadingDetail, .noAvailableData {
+    font-size: 50px;
+    display: block;
+    margin:100px auto;
+}
+.table-hover tbody tr:hover {
+    background-color: #f0f8ff; 
+    /* font-weight: bold;  */
+}
