@@ -1,7 +1,7 @@
 {
   "name": "nations-info-search",
   "version": "0.1.0",
-  "homepage": "https://haomichaelyuan.github.io/nation-info-search",
+  "homepage": "https://HaoYuan1122.github.io/countries-info-search",
   "private": true,
   "dependencies": {
     "@amcharts/amcharts5": "^5.4.3",
